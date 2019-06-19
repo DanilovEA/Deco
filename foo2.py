@@ -15,3 +15,4 @@ def my_foo():
 my_foo()
 
 print my_new_deco(my_foo)
+print("Test new git config")
